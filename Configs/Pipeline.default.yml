@@ -1,0 +1,14 @@
+seed: 1337
+style:
+  name: early_modern_en
+  archaic_pronouns: true
+  invert_clauses: 0.25
+  thou_shalt_factor: 0.2
+classical:
+  target_lang: auto   # auto | la | grc
+  enable: true
+transliteration:
+  script: celestial   # theban | celestial | none
+provenance:
+  embed_footer: true
+  include_config: true
